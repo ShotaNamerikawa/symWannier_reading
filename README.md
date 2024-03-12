@@ -1,7 +1,7 @@
 # symWannier_reading
 # Ref 
 1. R.Sakuma PRB 87, 235109 (2013)
-2. T.Koretsune CPC 285, 108645 (2023)
+2. T.Koretsune CPC 285, 108645 (2022)
 # Purpose and composition
 symWannierでやっていることを理解する。特にSymmetry-adapted Wannier Function (SMWF)の構成方法に重点を置いて説明したい。
 構成は以下のようにする。
