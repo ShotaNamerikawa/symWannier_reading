@@ -1,5 +1,5 @@
 # symWannier_reading
-# Ref 
+# 参考文献
 1. R.Sakuma PRB 87, 235109 (2013)
 2. T.Koretsune CPC 285, 108645 (2022)
 3. R.A. Evarestov and V. P. Smirnov, Site Symmetry in Crystals: TheoryandApplications, 2nded.,SpringerSeries inSolidStateSciences (Springer-Verlag,NewYork, 1997).
