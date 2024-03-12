@@ -11,7 +11,7 @@ symWannierでやっていることを理解する。特にSymmetry-adapted Wanni
   
 記号は基本的にref1で用いられているものをそのまま用いる。
 # Symmetry-adapted Wannier functionの定義と空間群に関する対称性
-空間群(磁気空間群はとりあえず考えない)を作用させたときに特定の変換性に従うWannier関数をSMWFと定義する。これはref.1によると
+空間群(磁気空間群はとりあえず考えない)を作用させたときに特定の変換性に従うWannier関数をSMWFと定義する。具体的には
 あるサイト$\vec{q}$に中心をもつWannier関数にそのサイトの固定部分群$G_\vec{q}$(site-symmetry groupともよぶ。空間群の元のうちサイトを変化させない元からなる部分群)の元を作用させたときに
 以下のように変換する関数である。
 ```math
