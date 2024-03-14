@@ -1,4 +1,6 @@
 # symWannier_reading
+空間群に対し望んだ変換性を持つ局在ワニエ関数を作るためのsymmetry-adapted Wannier functionの方法について解説する。
+間違いが含まれている可能性があるので注意。
 # 参考文献
 1. R.Sakuma PRB 87, 235109 (2013)
 2. T.Koretsune CPC 285, 108645 (2022)
