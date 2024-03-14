@@ -5,7 +5,7 @@
 1. R.Sakuma PRB 87, 235109 (2013)
 2. T.Koretsune CPC 285, 108645 (2022)
 3. R.A. Evarestov and V. P. Smirnov, Site Symmetry in Crystals: TheoryandApplications, 2nded.,SpringerSeries inSolidStateSciences (Springer-Verlag,NewYork, 1997).
-# Purpose and composition
+# 目的と構成
 symWannierでやっていることを理解する。特にSymmetry-adapted Wannier Function (SMWF)の構成方法に重点を置いて説明したい。
 構成は以下のようにする。
 - Symmetry-adapted Wannier Function (SMWF)の定義と空間群に関する対称性
