@@ -12,12 +12,12 @@
 # 目的と構成
 symWannierでやっていることを理解する。特にSymmetry-adapted Wannier Function (SMWF)の構成方法に重点を置いて説明したい。
 構成は以下のようにする。
-- Symmetry-adapted Wannier Function (SMWF)の定義と空間群に関する対称性
+- 空間群の変換性に基づくSymmetry-adapted Wannier functionの定義
 - SMWFの変換性とそれに基づくゲージ変換(U(k))に関する拘束条件
 - SMWFを構成できると何が良いのか。
   
 記号は基本的にRef.1で用いられているものをそのまま用いる。
-# 空間群に対する変換性に基づくSymmetry-adapted Wannier functionの定義
+# 空間群の変換性に基づくSymmetry-adapted Wannier functionの定義
 (以下の記述はRef.1の2.A.1を要約したものである。)
 空間群を作用させたときに特定の変換性に従うWannier関数をSMWFと定義する。具体的にはあるサイト$`\vec{q}`$に中心をもつWannier関数にそのサイトの固定部分群$`G_\vec{q}`$
 (site-symmetry groupともよぶ。空間群の元のうちサイトを変化させない元からなる部分群)の元$`\hat{g}_\vec{q}`$を作用させる。そのときに以下のように表現$`\beta`$に従い変換するワニエ関数をSMWFと呼ぶ。
