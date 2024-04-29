@@ -20,7 +20,7 @@ symWannierでやっていることを理解する。特にSymmetry-adapted Wanni
 # 空間群に対する変換性に基づくSymmetry-adapted Wannier functionの定義
 (以下の記述はRef.1の2.A.1を要約したものである。)
 空間群を作用させたときに特定の変換性に従うWannier関数をSMWFと定義する。具体的にはあるサイト$`\vec{q}`$に中心をもつWannier関数にそのサイトの固定部分群$`G_\vec{q}`$
-(site-symmetry groupともよぶ。空間群の元のうちサイトを変化させない元からなる部分群)の元$`\hat{g}_\vec{q}`$を作用させる。そのときに以下のように変換するワニエ関数をSMWFと呼ぶ。
+(site-symmetry groupともよぶ。空間群の元のうちサイトを変化させない元からなる部分群)の元$`\hat{g}_\vec{q}`$を作用させる。そのときに以下のように表現$`\beta`$に従い変換するワニエ関数をSMWFと呼ぶ。
 ```math
 \hat{g}_\vec{q} W^{(\beta)}_{j1}(\vec{r}) = \sum_{i'=1}^{n_\beta}{d^{(\beta)}_{i'i} (R_q)W^{(\beta)}_{i'1}(\vec{r})}
 ```
